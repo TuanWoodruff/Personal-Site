@@ -1,0 +1,29 @@
+body{
+  background-color: white;
+  margin: 0;
+}
+
+
+.header{
+  color: green;
+  text-align: center;
+  margin-top: 0;
+}
+
+.top-container{
+  background-color: #9df3c4;
+}
+
+.middle-container{
+  background-color: #9df3c4;
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+}
+
+.bottom-container{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+}
