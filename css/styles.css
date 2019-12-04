@@ -1,5 +1,4 @@
 body{
-  background-image: url('bird.png');
   margin: 0;
 }
 
@@ -15,9 +14,10 @@ body{
 }
 
 .middle-container{
+  background-image: url(https://images.pexels.com/photos/853199/pexels-photo-853199.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
   background-color: blue;
-  height: 200px;
-  width: 200px;
+  height: 500px;
+  width: 500px;
   margin: 10px;
 }
 
@@ -26,4 +26,9 @@ body{
   height: 200px;
   width: 200px;
   margin: 10px;
+}
+
+.container-image{
+  height: 200px;
+  width: 200px;
 }
